@@ -1,0 +1,10 @@
+
+Manifest · JSON
+{
+  "C1": {
+    "versionCode": 204,
+    "versionName": "C1_2.4",
+    "url": "https://github.com/RiqPasanen/SilverFoxInControl/releases/download/C1_2.4/C1_2.4_up.ino.bin",
+    "notes": "Lisätty BLE-pohjainen laiteohjelmistopäivitys"
+  }
+}
