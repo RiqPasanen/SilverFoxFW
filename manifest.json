@@ -1,7 +1,7 @@
 {
   "C1": {
-    "versionCode": 207,
-    "versionName": "C1_2.7",
+    "versionCode": 230,
+    "versionName": "C1_2.3",
     "url": "https://github.com/RiqPasanen/SilverFoxFW/releases/download/C1-2.7/C1_2.7_test.bin",
     "notes": "Lisätty BLE-pohjainen laiteohjelmistopäivitys"
   }
