@@ -13,7 +13,7 @@
   },
   "H1plus": {
     "versionCode": 205,
-    "versionName": "H1plus_2.4",
+    "versionName": "H1plus_2.5",
     "url": "https://github.com/RiqPasanen/SilverFoxFW/releases/download/H1plus-2.4/H1plus_2.4.ino.bin",
     "notes": "Lisätty BLE-pohjainen laiteohjelmistopäivitys"
   }
