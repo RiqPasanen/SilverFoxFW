@@ -4,5 +4,11 @@
     "versionName": "C1_2.4",
     "url": "https://github.com/RiqPasanen/SilverFoxFW/releases/download/C1-2.4/C1_2.4.ino.bin",
     "notes": "Lisätty BLE-pohjainen laiteohjelmistopäivitys"
+  },
+  "C2": {
+    "versionCode": 104,
+    "versionName": "C2_1.4",
+    "url": "https://github.com/RiqPasanen/SilverFoxFW/releases/download/C2-1.4/C2_1.4.ino.bin",
+    "notes": "Lisätty BLE-pohjainen laiteohjelmistopäivitys"
   }
 }
