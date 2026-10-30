@@ -8,7 +8,7 @@
   "C2": {
     "versionCode": 105,
     "versionName": "C2_1.5",
-    "url": "https://github.com/RiqPasanen/SilverFoxFW/releases/download/C2-1.4/C2_1.4.ino.bin",
+    "url": "https://github.com/RiqPasanen/SilverFoxFW/releases/download/C2-1.5/C2_1.5.ino.bin",
     "notes": "Lisätty BLE-pohjainen laiteohjelmistopäivitys"
   },
   "H1plus": {
